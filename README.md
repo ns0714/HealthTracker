@@ -9,16 +9,20 @@ With HealthTracker users would be able to share and suggest their health and fit
 
 User Stories
 
-- [ ]  User can register for the app using email & password. - Username, email, password, handle
+- [ ] User can register for the app using email & password. - Username, email, password, handle
 - [ ] User can login using email/password.
 - [ ] User can select categories that he is in interested in. 
 - [ ] User can see posts from friends or public posts related to the selected category.
 - [ ] Timeline contains different kinds of posts- links, photos, videos
 - [ ] User can mark(hi-fi) the stories which he wants to follow as a routine
 - [ ] User can search for friends
-- [ ] User can create a post based on category
+- [ ] User can create a post based on category.
+- [ ] User can view/edit profile
+- [ ] User can track their progress based on category over a period of time
 
 
 Nice to have stories
 
-[ ]- Facebook login
+- [ ] Facebook login
+- [ ] Add friends from facebook
+- [ ] Add posts from other apps
