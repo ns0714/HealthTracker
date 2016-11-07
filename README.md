@@ -6,6 +6,7 @@
 
 With HealthTracker users would be able to share and suggest their health and fitness related information with their friends. If you have a health condition and you would like to connect with people that have the same health condition and would like to know and get yourself motivated to adopt healthy life choices and what has been working for others. HealthTracker would allow users to record their health condition related information and share with friends. This way people can see what has been working for others and how their own efforts compare to others. 
 
+https://docs.google.com/document/d/1JRujFW-qKlATrRxHj4ZHNzB0XnMq0P7y5lci87VQH_E/edit?ts=581fd4a9
 
 User Stories
 
